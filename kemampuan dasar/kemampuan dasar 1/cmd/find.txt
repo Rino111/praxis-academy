@@ -1,0 +1,4 @@
+C:\Users\HP>find
+FIND: Parameter format not correct
+
+mencari string teks tententu dalam file

@@ -1,0 +1,5 @@
+C:\Users\HP>msg
+'msg' is not recognized as an internal or external command,
+operable program or batch file.
+
+Mengirim pesan ke user lain dalam sebuah jaringan komputer lokal

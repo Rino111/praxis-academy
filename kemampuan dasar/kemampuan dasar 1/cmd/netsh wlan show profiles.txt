@@ -1,0 +1,122 @@
+C:\Users\HP>netsh wlan show profiles
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : PRAXIS
+    All User Profile     : iPhone
+    All User Profile     : NUBackpacker.org
+    All User Profile     : Mbelani Purworejo
+    All User Profile     : ANIMOR 07
+    All User Profile     : BUNG TOMO
+    All User Profile     : M2003J15SC_fDhy?
+    All User Profile     : SAMBEL SAWAH
+    All User Profile     : BELA_ BELI
+    All User Profile     : Redmi 2
+    All User Profile     : PENDOPO KAFE
+    All User Profile     : WL CCTV & RAK MINIMARKET
+    All User Profile     : PENDOPO KAFE RESTO
+    All User Profile     : Pintu Media
+    All User Profile     : s n.kmdd
+    All User Profile     : Azriel  dk
+    All User Profile     : JOGJAISTIMEWASOGAN
+    All User Profile     : OPPO A3s
+    All User Profile     : Wiffi
+    All User Profile     : 14.09.14
+    All User Profile     : PEMDES TLAHAP
+    All User Profile     : kalibiru
+    All User Profile     : Pecel _Pincuk
+    All User Profile     : Pelajarnuwates 2
+    All User Profile     : Pelajarnuwates
+    All User Profile     : Tuman Cafe
+    All User Profile     : UNU Jogja Sayap Selatan
+    All User Profile     : UNU Jogja Limasan
+    All User Profile     : UNU Jogja Lobby
+    All User Profile     : UNU Jogja Sayap Utara
+    All User Profile     : ???
+    All User Profile     : OPPO A3s 2
+    All User Profile     : KongKow
+    All User Profile     : BGlp-UmVkbWk
+    All User Profile     : vivo 1609
+    All User Profile     : PASTE FREE WIFI
+    All User Profile     : Ashabul Cave
+    All User Profile     : Bismillah
+    All User Profile     : FREE BASABASI
+    All User Profile     : NUBackpacker.id
+    All User Profile     : Mi Phone
+    All User Profile     : 123
+    All User Profile     : 123 2
+    All User Profile     : AQAAANDUS1QAPwGERedmi 4A
+    All User Profile     : Bzbvdmavlabk67
+    All User Profile     : Expresso Unifi
+    All User Profile     : apa 2
+    All User Profile     : SUKIRNO.SE
+    All User Profile     : Gusdurian Unwahas
+    All User Profile     : Pakopen DJO
+    All User Profile     : LembayungCoffee (Free)
+    All User Profile     : andriansah
+    All User Profile     : apa
+    All User Profile     : UNU-JOGJA-BANTUL
+    All User Profile     : sugriwasubalicafe
+    All User Profile     : Kumendan Joglo
+    All User Profile     : PASTE Voucher HotSpot
+    All User Profile     : JogloKopi
+    All User Profile     : #LAZone.id@KOPI PASTE
+    All User Profile     : Br1f-TGVub3ZvIFZJQkUgQw
+    All User Profile     : Redmi
+    All User Profile     : NUBackpacker 2
+    All User Profile     : yoi
+    All User Profile     : UNU Jogja Kelas Bawah
+    All User Profile     : adf
+    All User Profile     : NUBackpacker
+    All User Profile     : WiFi.id
+    All User Profile     : NuBackpacker.id
+    All User Profile     : UNU Jogja Dosen
+    All User Profile     : SUGARA MILK
+    All User Profile     : KNPI Purworejo
+    All User Profile     : intramuscular
+    All User Profile     : Kopi Kumendan  Joglo
+    All User Profile     : iPhone x 2
+    All User Profile     : iPhone x
+    All User Profile     : hotspotgratiscuk
+    All User Profile     : RUMAH BUDAYA
+    All User Profile     : angkringan free wifi.id
+    All User Profile     : BgAAAM+4uusAHwFSRedmi 5A
+    All User Profile     : - KN Free Hotspot -
+    All User Profile     : rohmad
+    All User Profile     : Samsung J1
+    All User Profile     : LPTIPM
+    All User Profile     : BCIG-bWk0
+    All User Profile     : KANTOR DESA GARUNG
+    All User Profile     : kedai ws
+    All User Profile     : HotOsm
+    All User Profile     : HOT-ID XX
+    All User Profile     : Cafe Silol
+    All User Profile     : Spong_Sedot
+    All User Profile     : UNU Jogja Aula
+    All User Profile     : BL1D-cmlub3ByaWF0YW1h
+    All User Profile     : Lenovo VIBE C
+    All User Profile     : OPO37
+    All User Profile     : AndroidAP
+    All User Profile     : My ASUS
+    All User Profile     : lembayungcoffee
+    All User Profile     : henda
+    All User Profile     : rohmat
+    All User Profile     : BxXb-TGVub3ZvIFZJQkUgQw
+    All User Profile     : Justin
+    All User Profile     : Pelataran Mataram
+    All User Profile     : samsung J1
+    All User Profile     : AAAAAGrZ9X4AAwG6rinopriatama 2
+    All User Profile     : Badry_zahro
+    All User Profile     : OPPO A37f
+    All User Profile     : B8CA-UmVkbWlOb3RlNUE
+    All User Profile     : ashabulcavee
+    All User Profile     : AAAAAGrZ9X4AAwG6rinopriatama
+    All User Profile     : Monly 2 new
+
+Menampilkan detail informasi jaringan WiFi termasuk password-nya

@@ -1,0 +1,4 @@
+C:\Users\HP>copy
+The syntax of the command is incorrect.
+
+Menyalin file dari suatu lokasi (direktori) ke lokasi lain

@@ -1,0 +1,7 @@
+C:\Users\HP>nslookup
+DNS request timed out.
+    timeout was 2 seconds.
+Default Server:  UnKnown
+Address:  fe80::1
+
+Mengecek IP address di Name Serve

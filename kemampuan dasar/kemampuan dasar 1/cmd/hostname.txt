@@ -1,0 +1,4 @@
+C:\Users\HP>hostname
+LAPTOP-DB289VQ0
+
+Menampilkan nama host komputer

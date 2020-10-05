@@ -1,0 +1,30 @@
+C:\Users\HP>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 4CB2-A8A0
+
+ Directory of C:\Users\HP
+
+05/10/2020  10:09    <DIR>          .
+05/10/2020  10:09    <DIR>          ..
+30/11/2019  08:12    <DIR>          .android
+27/11/2019  15:10    <DIR>          .AndroidStudio3.5
+28/11/2019  16:07    <DIR>          .gradle
+02/10/2018  14:19    <DIR>          .nbi
+20/09/2018  07:43    <DIR>          .oracle_jre_usage
+17/08/2020  03:51    <DIR>          3D Objects
+28/11/2019  15:30    <DIR>          AndroidStudioProjects
+17/08/2020  03:51    <DIR>          Contacts
+05/10/2020  10:27    <DIR>          Desktop
+05/10/2020  10:16    <DIR>          Documents
+03/10/2020  17:15    <DIR>          Downloads
+17/08/2020  03:51    <DIR>          Favorites
+12/09/2018  11:55    <DIR>          HP
+17/08/2020  03:51    <DIR>          Links
+05/10/2020  10:18    <DIR>          Music
+15/09/2020  08:50    <DIR>          OneDrive
+03/10/2020  00:26    <DIR>          Pictures
+17/08/2020  03:51    <DIR>          Saved Games
+17/08/2020  03:51    <DIR>          Searches
+17/08/2020  03:51    <DIR>          Videos
+               0 File(s)              0 bytes
+              22 Dir(s)  40.616.796.160 bytes free

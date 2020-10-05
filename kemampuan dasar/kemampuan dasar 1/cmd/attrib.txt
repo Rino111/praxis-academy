@@ -1,0 +1,14 @@
+C:\Users\HP>attrib
+A   H   I            C:\Users\HP\NTUSER.DAT
+A  SH                C:\Users\HP\ntuser.dat.LOG1
+A  SH                C:\Users\HP\ntuser.dat.LOG2
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d2-09fb-11ea-80c8-c11e27bb89da}.TxR.0.regtrans-ms
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d2-09fb-11ea-80c8-c11e27bb89da}.TxR.1.regtrans-ms
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d2-09fb-11ea-80c8-c11e27bb89da}.TxR.2.regtrans-ms
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d2-09fb-11ea-80c8-c11e27bb89da}.TxR.blf
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d3-09fb-11ea-80c8-c11e27bb89da}.TM.blf
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d3-09fb-11ea-80c8-c11e27bb89da}.TMContainer00000000000000000001.regtrans-ms
+A  SH                C:\Users\HP\NTUSER.DAT{d8aed9d3-09fb-11ea-80c8-c11e27bb89da}.TMContainer00000000000000000002.regtrans-ms
+   SH                C:\Users\HP\ntuser.ini
+
+Menampilkan, mengatur, atau menghapus atribut read-only, archive, system, dan hidden yang terpasang pada file atau folder

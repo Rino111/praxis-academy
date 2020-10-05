@@ -1,0 +1,11 @@
+C:\Users\HP>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+00-FF-D4-DD-9D-A8   Media disconnected
+80-CE-62-43-66-DB   Media disconnected
+40-9F-38-D7-BF-47   \Device\Tcpip_{DF3B9AF8-5B89-4849-B70E-F0A42E1BDE26}
+00-FF-D1-57-6F-00   Media disconnected
+40-9F-38-D7-BF-46   Media disconnected
+
+Menampilkan alamat MAC dari adaptor jaringan pengguna

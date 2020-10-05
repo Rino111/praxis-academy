@@ -1,0 +1,5 @@
+C:\Users\HP>detail
+'detail' is not recognized as an internal or external command,
+operable program or batch file.
+
+Melihat informasi tentang partisi yang dipilih

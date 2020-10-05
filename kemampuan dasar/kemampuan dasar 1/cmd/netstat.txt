@@ -1,0 +1,15 @@
+C:\Users\HP>netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:1521         LAPTOP-DB289VQ0:49673  ESTABLISHED
+  TCP    127.0.0.1:49673        LAPTOP-DB289VQ0:1521   ESTABLISHED
+  TCP    192.168.1.47:50074     10:https               CLOSE_WAIT
+  TCP    192.168.1.47:50151     203:https              ESTABLISHED
+  TCP    192.168.1.47:50641     10:https               ESTABLISHED
+  TCP    192.168.1.47:50824     181:https              CLOSE_WAIT
+  TCP    192.168.1.47:50894     106:http               ESTABLISHED
+  TCP    192.168.1.47:50965     lb-140-82-114-25-iad:https  ESTABLISHED
+
+Menampilkan koneksi TCP/IP yang aktif
