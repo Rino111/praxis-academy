@@ -42,3 +42,4 @@ Cara membuka mode interaktif adalah dengan mengetik perintah python pada termina
 jika `python` yang digunakan versi `Python 3.8`\n
  python3.8\n
  untuk keluar dari mode interaktif tekan Ctrl+d atau ketik perintah exit().
+ 
