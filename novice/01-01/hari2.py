@@ -3,6 +3,7 @@
 #kita dapat menyimpan sequence / rangkaian item menggunakan list.
 #item dalam list ditutup menggunakan kurung siku [] (list literal)
 #Setelah list dibuat anda bisa menambah, mengurangi, dan mencari item pada list
+#Karena kita dapat menambah dan mengurangi item,
 
 
 fruits = ["duren", "salak", "mangga", "kelapa"]
@@ -43,7 +44,7 @@ print(f)
 #dan mengembalikan item yang dihapus.
 
 print (fruits.count("duren"))
-
+#untuk mengetahui jumlah list pada elemen
 
 print (fruits.index("kelapa"))
 
