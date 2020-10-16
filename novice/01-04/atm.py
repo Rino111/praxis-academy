@@ -37,13 +37,13 @@ def cek_user(id):
         if user[i]['id'] == str(id):
             return int(i)
     return -1
- 
+ #fungsi cek user
 def cek_rekening(no):
     for i in range(len(user)):
         if str(user[i]['no_rekening']) == str(no):
             return int(i)
     return -1
- 
+ # fungsi untuk transfer uang dan ambil uang
 def tranfer_uang(uang,no_rekening):
     index1 = cek_user(user_id)
     index2 = cek_rekening(no_rekening)
@@ -65,9 +65,15 @@ def ambil_uang(uang):
             print("sisa saldo anda adalah Rp.",user[index1]['saldo'])
         else:
             print("Maaf saldo anda tidak cukup")
- 
- 
-while pakai_atm == "y":
+
+    #untuk fungsi transfer uang kita perlu parameter nominal(uang) yang akan 
+    # di transfer dan no rekening(ni_rekening) tujuan
+    #sedangkan fungsi ambil uang hanya perlu paramerter nominal(uang)
+    
+
+##kita juga akan membuat perulangan untuk loginnya, supaya kita bisa kita bisa logout 
+ #dan login ke user lainnya kan kita mau transfer uang antar user
+while pakai_atm == "y":  
     while status_login == False:
         print("SELAMAT DATANG DI ATM BANK UNU JOGJA")
         print("Silahkan masukan pin anda")
@@ -84,9 +90,13 @@ while pakai_atm == "y":
             print("Maaf PIN anda salah")
             print("")
             print("")
-     
-    while loop == "y" and status_login == True:
-        u = user[cek_user(user_id)]
+            
+    #nah disini kita memanggil fungsi cek_login tadi
+    #dan memasukan inputan kita ke parameternya
+     #ini merupakan perulangan yang akan menampilkan menu-menu 
+     #diatmnya serta pemanggilan setiap fungsi yang kita buat tad
+    while loop == "y" and status_login == True:  
+        u = user[cek_user(user_id)] 
         print("SELAMAT DATANG DI ATM BANK UNU JOGJA")
         print("1.Cek Saldo")
         print("2.Transfer Uang")
