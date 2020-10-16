@@ -1,30 +1,37 @@
-user_id = 0
-loop = "n"
+user_id = 0         #user_id untuk menyimpan id dari user yang login
+loop = "n"          #untuk menyimpan kondisi while saat memilih menu ATM
 user =  [
             {   
                 "id":"111",
                 "no_rekening":"2222222222",
-                "username":"rino",
+                "username":"adi",
                 "pin":"1997",
                 "saldo":0
             },
             {   
                 "id":"123",
                 "no_rekening":"3333333333",
-                "username":"adi",
+                "username":"Rino Priatama",
                 "pin":"1998",
                 "saldo":25000000
             }
         ]
-status_login = False
-pakai_atm = "y"
- 
+status_login = False    #menyimpan status apakah user berhasil login atau tidak
+pakai_atm = "y"         #menyimpan kondisi apakah kita masih menggunakan ATM atau tidak
+
+#kemudia kita akan membuat fungsi-fungsi untuk ATM-nya
+
+#pertama fungsi cek_login
 def cek_login(p):
     for us in user:
         if us['pin'] == p:
             return us
-    return False       
-     
+    return False     
+
+#for disini untuk melakukan perulangan dan mengecek apakah parameter p(pin) yang kita 
+#masukan saat pertama kali menggunakan ATM sama/ada di dalam variable user(array)  
+
+#fungsi cek_user   
 def cek_user(id):
     for i in range(len(user)):
         if user[i]['id'] == str(id):
@@ -62,7 +69,7 @@ def ambil_uang(uang):
  
 while pakai_atm == "y":
     while status_login == False:
-        print("SELAMAT DATANG DI ATM BANK MURDIONO")
+        print("SELAMAT DATANG DI ATM BANK UNU JOGJA")
         print("Silahkan masukan pin anda")
         pin = input("Masukan PIN : ")
      
@@ -80,7 +87,7 @@ while pakai_atm == "y":
      
     while loop == "y" and status_login == True:
         u = user[cek_user(user_id)]
-        print("SELAMAT DATANG DI ATM BANK MURDIONO")
+        print("SELAMAT DATANG DI ATM BANK UNU JOGJA")
         print("1.Cek Saldo")
         print("2.Transfer Uang")
         print("3.Ambil Uang")
